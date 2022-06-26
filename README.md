@@ -1,7 +1,6 @@
 # testrepo
 
 ## Editing the file
-
 ### header 3
 #### header 4
 ##### header 5
